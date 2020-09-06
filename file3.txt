@@ -1,5 +1,1 @@
-
-changes from Github Online
-
-
-this is 3rd file txt now adding from github
+Setuped now with Smart Git
