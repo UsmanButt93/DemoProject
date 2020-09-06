@@ -1,1 +1,3 @@
 Setuped now with Smart Git
+
+changing to make it happen
